@@ -8,8 +8,8 @@ public class DBcommunicator {
     private static Connection databaseLink;
     
     public DBcommunicator(){
-        String databaseName = "LIVE_THE_CITY_SEPR2023";
-        String databaseUser = "root";
+        String databaseName = "";
+        String databaseUser = "";
         String databasePassword = "";
         
         try {
