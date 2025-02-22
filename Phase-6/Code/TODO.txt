@@ -1,0 +1,7 @@
+1. DBCommunicator for DatabaseConnection.java and Main for App.java in DomainModel-v03
+
+2. DBCommunicator for MyJOffers and ToursHistory
+
+3. team plan 
+
+view notes on phase 6
